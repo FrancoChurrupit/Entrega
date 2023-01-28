@@ -1,0 +1,6 @@
+Tutorial
+
+1-entre al visual estudio
+2- clica en Archivo se encuentra en la parte superior del lado izquierdo 
+3- clica abrir carpeta
+4- selecciona la carpeta Entrega-main
